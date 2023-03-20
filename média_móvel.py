@@ -13,3 +13,5 @@ while True:
     mm = soma/len(casos)
 
     print(casos, round(mm,2))
+
+    
